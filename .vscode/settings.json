@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "greco140",
+        "projectKey": "Greco140_EjemploSonarCloud"
+    }
+}
